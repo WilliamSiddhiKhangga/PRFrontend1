@@ -1,4 +1,3 @@
-// JavaScript to highlight the active navbar button based on the current section
 let sections = document.querySelectorAll('section');
 let navLinks = document.querySelectorAll('nav ul li');
 
